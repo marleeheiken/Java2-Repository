@@ -1,4 +1,4 @@
-# Java2-Repository
+# Java2-Project
 Term Project for Java II Class
 
 # MRP System for Visual Robotics
